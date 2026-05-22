@@ -121,8 +121,7 @@ int main() {
 
 ## OUTPUT:
 <img width="632" height="282" alt="Screenshot 2026-05-21 224323" src="https://github.com/user-attachments/assets/eac6a33d-b89b-4b19-b4f8-567cea0e6491" />
-
-<img width="632" height="282" alt="Screenshot 2026-05-21 224323" src="https://github.com/user-attachments/assets/5a100232-6140-4f6b-8f36-1d248ee3725d" />
+<img width="772" height="150" alt="Screenshot 2026-05-21 224340" src="https://github.com/user-attachments/assets/e7a846ac-cf72-4311-b3a6-938843087bd7" />
 
 
 # RESULT:
